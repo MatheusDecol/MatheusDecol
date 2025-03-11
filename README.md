@@ -1,6 +1,7 @@
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://modelobahiadegestao.com.br/wp-content/uploads/2022/09/melhores-softwares-gestao-empresarial.jpg"/>
 &nbsp;&nbsp;&nbsp;
 
+## Um pouco sobre mim
 
 <p align="center">Olá, sou estudante de Análise e Desenvolvimento de Sistemas e tenho grande paixão por criar páginas e aplicações web, sempre buscando aprimorar meus conhecimentos e explorar novas tecnologias. Além disso, sou muito interessado na área de gestão, tanto de projetos quanto de produtos, e gosto de integrar meu conhecimento técnico com uma visão estratégica para alcançar resultados eficazes.</p>&nbsp;
  
